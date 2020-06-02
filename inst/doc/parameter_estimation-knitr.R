@@ -1,5 +1,4 @@
 ### R code from vignette source 'parameter_estimation-knitr.Rnw'
-### Encoding: ISO8859-1
 
 ###################################################
 ### code chunk number 1: parameter_estimation-knitr.Rnw:58-70

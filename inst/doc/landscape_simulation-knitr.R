@@ -1,5 +1,4 @@
 ### R code from vignette source 'landscape_simulation-knitr.Rnw'
-### Encoding: ISO8859-1
 
 ###################################################
 ### code chunk number 1: landscape_simulation-knitr.Rnw:23-28
