@@ -1,5 +1,5 @@
-d818948320cc720ff283374bbf6793dc *DESCRIPTION
-3d4b3426e4da87f8caf7b5d013dda7c6 *NAMESPACE
+fd697f419a73fda138a8ac0e87229f99 *DESCRIPTION
+5a6711f186733c9803fbb62397b8a306 *NAMESPACE
 bf1ef532fd145a20a8b25b7922993444 *R/MetaLandSim.GUI.R
 cc7b42a8ce6bbf6ae5f9b75a00a9ab2e *R/accept.calculate.r
 2d660bc591ee16e3cd1fdfa478a2c6fd *R/acceptance.rate.r
@@ -48,8 +48,9 @@ e948ebab1008810c05056ebe303bdd63 *R/species.graph.R
 cb2b03912fc0ad3a67708305811adb64 *R/spom.r
 3e570cbd16acc1197be5822aa8894414 *R/summary_landscape.R
 1a84c01edc7ca3ea49a827626a359ccc *R/summary_metapopulation.R
+7e0f5ed1ee271d47b680dadeac092a58 *R/vmm.R
 f95296a81a762b9b0d2dc83ab3ac924a *README.md
-c22e3366060fe5ff8383e1e109983b8e *build/vignette.rds
+2e85ed4cb31ef9311979aaa3976c9801 *build/vignette.rds
 8083ee3918fadafb2d9d51829118e4dc *data/cabrera.rda
 b5953c335d4af6eb1dceb02236b6cfea *data/datalist
 42af62980c46fcbce0b36ee72d1bffbd *data/landscape_change.rda
@@ -64,13 +65,13 @@ bc4cee838a7ecafc763f8eb47cd0a505 *data/mc_df.rda
 34c60f62f0c8604e92b0306776d61cd7 *inst/CITATION
 d8c3cdb618e1c5525a4ae9ac12f05bfd *inst/doc/landscape_simulation-knitr.R
 bc588b5b8544904c55900d47ad27bfea *inst/doc/landscape_simulation-knitr.Rnw
-485526af5d88d1d9b7c01f3c89ff3adb *inst/doc/landscape_simulation-knitr.pdf
+6c2635205f4a5d2d026ec2c112bd17f7 *inst/doc/landscape_simulation-knitr.pdf
 ffed2a607af78a811446d22ee88fd6e1 *inst/doc/parameter_estimation-knitr.R
 4542de81c71ecd2dc5be8637f12ac0b3 *inst/doc/parameter_estimation-knitr.Rnw
-29f71ab0a8a2d1e9487eced683984715 *inst/doc/parameter_estimation-knitr.pdf
+45c42d35c5f1f5ce79ea3c27eb79d249 *inst/doc/parameter_estimation-knitr.pdf
 e224ddba0d54d101ea8a5bafbf9f9344 *inst/doc/range_expansion-knitr.R
 74b9b3c011a2e76148e7d59079668ebf *inst/doc/range_expansion-knitr.Rnw
-1de609996f48a5ad28259cdef55aa68f *inst/doc/range_expansion-knitr.pdf
+710a3837b9130ac0dd88f50d613b0303 *inst/doc/range_expansion-knitr.pdf
 3c47766074a74c65202df2097cbf02e5 *inst/examples/landmask.asc
 a07b649480766d17d998e14eb0a0b03f *inst/examples/landmask.asc.aux.xml
 9bc6dc252983da0ca148c2657b5e2bc7 *inst/examples/presences.asc
