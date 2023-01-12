@@ -23,7 +23,7 @@
 
 
 ###################################################
-### code chunk number 2: range_expansion-knitr.Rnw:63-82 (eval = FALSE)
+### code chunk number 2: range_expansion-knitr.Rnw:55-69 (eval = FALSE)
 ###################################################
 ## data(rg_exp)
 ## presences <- paste(system.file(package="MetaLandSim"),
@@ -31,15 +31,10 @@
 ## landmask <- paste(system.file(package="MetaLandSim"), 
 ## "/examples/landmask.asc", sep="")
 ## 
-## library(rgrass7)
-## 
-## #First, start GRASS from R: 
-## initGRASS(gisBase = "grass folder", home = tempdir(), 
-## gisDbase = "mapset location",override = TRUE)
-## 
 ## #Create raster, using the sample dataset 
 ## #rg_exp (generated with 100 repetitions)
 ## 
+## #we can load the pre-defined dataset:
 ## data("rg_exp")
 ## 
 ## range_raster(presences.map = presences, re.out=rg_exp, 
